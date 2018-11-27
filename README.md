@@ -13,3 +13,11 @@ In the directory bitoper, the program performs set operations using bit manipula
 *gridn:*
 
 It produces a matrix of order n with numbers from (1-n^2) randomly shuffled in the cells.
+
+*listprimes:*
+
+Takes a positive number as input and lists all the prime numbers between 2 and that number.
+
+*listgcd*
+
+Takes a list of positive number and computes the GCD of that number.
