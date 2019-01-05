@@ -1,5 +1,7 @@
 #!/usr/bin/python3.6
 
+""" It's an analog of wc command """
+
 fname = input("Enter the file-name:- ")
 
 def linecount(fname):

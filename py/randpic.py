@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+""" It generates some random pixels and converts that pixels to a pic. """
+
 from PIL import Image
 import random
 

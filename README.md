@@ -1,6 +1,8 @@
-# C-scripts
+# c and py-scripts
 
-This repo contains some normal c-scripts like morsec code converter, rolling dice, string operations, bit operations.
+This repo contains some normal c and py scripts like morsec code converter, rolling dice, string operations, bit operations and lots more...
+
+For the use of python files open the files and see the description.
 
 **String Operations**
 
@@ -13,11 +15,3 @@ In the directory bitoper, the program performs set operations using bit manipula
 *gridn:*
 
 It produces a matrix of order n with numbers from (1-n^2) randomly shuffled in the cells.
-
-*listprimes:*
-
-Takes a positive number as input and lists all the prime numbers between 2 and that number.
-
-*listgcd*
-
-Takes a list of positive number and computes the GCD of that number.
