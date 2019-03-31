@@ -15,3 +15,7 @@ In the directory bitoper, the program performs set operations using bit manipula
 *gridn:*
 
 It produces a matrix of order n with numbers from (1-n^2) randomly shuffled in the cells.
+
+*magicsq:*
+
+Takes dimension of matrix, first term and common difference of an AP as input and makes a mxm Magic square.
