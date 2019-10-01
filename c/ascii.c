@@ -7,7 +7,7 @@ int main()
    char       cha;
 
    printf("Enter a character: ");
-   cha = getchar();
+   scanf("%c", &cha);
 
    printf("The ascii value of %c is %d\n", cha, cha);
    exit(0);
